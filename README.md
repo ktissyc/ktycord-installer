@@ -9,4 +9,4 @@
 - Click the first option and you are done!
 
 
-### i know this is the worst method to install it but i won't waste time for making an installer for it.
+#### i know this is the worst method to install it but i won't waste time for making an installer for it.
