@@ -5,7 +5,7 @@
 ## Install process
 - Download the zip file at the [releases](https://github.com/naohdevelopment/ktycord-installer/releases)
 - Download [Node.js](https://nodejs.org/en/download)
-- Open the terminal and type `node scripts/runInstaller.mjs`
+- Open the terminal and type `node scripts/installer.mjs`
 - Select the first option and you are done! (2x)
 
 
