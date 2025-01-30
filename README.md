@@ -11,5 +11,4 @@
 ## Install process on Linux (Vesktop)  
 1. Download the zip file from the [releases](https://github.com/naohdevelopment/ktycord-installer/releases).  
 2. Extract it.
-
 3. Open the Vesktop settings and change the location to the folder where you extracted the dist folder and you are done!
